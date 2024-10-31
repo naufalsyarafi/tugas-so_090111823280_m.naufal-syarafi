@@ -1,5 +1,5 @@
 # tugas-so_090111823280_m.naufal-syarafi
-#REMOTE UBUNTU SERVER dengan PROTOKOL SSH
+#REMOTE UBUNTU SERVER dengan PROTOKOL SSH#
 TEORI DASAR
 #SISTEM OPERASI LINUX
 Linux merupakan software sistem operasi open source yang gratis untukdisebarluaskan di bawah lisensi GNU. Linux merupakan turunan dari unix dandapat bekerja pada berbagai macam perangkat keras koputer mulai dari interx86 sampai dengan RISC.Dengan lisensi GNU (Gnu Not Unix) Anda dapat memperoleh program,lengkap dengan kode sumbernya (source code). Tidak hanya itu, andadiberikan hak untuk mengkopi sebanyak anda mau, atau bahkan mengubahkode sumbernya dan itu semua legal dibawah lisensi. Meskipun gratis, lisensiGNU memperbolehkan pihak yang ingin menarik biaya untuk penggandaanmaupun pengiriman program.
