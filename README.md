@@ -4,10 +4,10 @@
 # SISTEM OPERASI LINUX
 Linux merupakan software sistem operasi open source yang gratis untukdisebarluaskan di bawah lisensi GNU. Linux merupakan turunan dari unix dandapat bekerja pada berbagai macam perangkat keras koputer mulai dari interx86 sampai dengan RISC.Dengan lisensi GNU (Gnu Not Unix) Anda dapat memperoleh program,lengkap dengan kode sumbernya (source code). Tidak hanya itu, andadiberikan hak untuk mengkopi sebanyak anda mau, atau bahkan mengubahkode sumbernya dan itu semua legal dibawah lisensi. Meskipun gratis, lisensiGNU memperbolehkan pihak yang ingin menarik biaya untuk penggandaanmaupun pengiriman program.
 
-2.Remote Server
+# 2.Remote Server
 Remote server adalah teknologi yang memungkinkan pengguna untuk mengakses sebuah server dan jaringan dari jarak jauh. Jadi meskipun tidak menggunakan jaringan LAN yang sama dengan server, pengguna server tetap bisa mengakses dan mengontrol server tanpa harus ke lokasi. Server jarak jauh (remote) juga merupakan suatu server yang bisa diakses dengan bagian proses lain tanpa harus membuka koneksi secara langsung tanpa harusterpisah.
 
-LANGKAH-LANGKAH:
+# LANGKAH-LANGKAH:
 1).Membuka ubuntu server dan login ke halaman root
 
 2).MENG-INSTALL OPENSSH DALAM TERMINAL UBUNTU SERVER konsol: sudo apt install openssh -y
